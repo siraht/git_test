@@ -1,0 +1,1 @@
+This is Travis' first git project. I am currently following The Odin Project's curriculum and aim to have a job in development in six months.
